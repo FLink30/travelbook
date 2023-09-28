@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        ///////////////////////////////////////////////////////////////////////////////////////
+        // Fonts
+
+        <dimen name="buttonFont">16sp</dimen>
+        <dimen name="body">20sp</dimen>
+        <dimen name="heading">24sp</dimen>
+        <dimen name="bigFont">32sp</dimen>
+
+        ///////////////////////////////////////////////////////////////////////////////////////
+        //Width and Height
+
+        <dimen name="buttonSize">40dp</dimen>
+        <dimen name="ItemHeight">120dp</dimen>
+        <dimen name="ItemWidth">160dp</dimen>
+
+        ///////////////////////////////////////////////////////////////////////////////////////
+        //Margin
+
+        <dimen name="activity_horizontal_margin">16dp</dimen>
+        <dimen name="activity_vertical_margin">16dp</dimen>
+        <dimen name="activity_vertival_margin_large">32dp</dimen>
+
+        ///////////////////////////////////////////////////////////////////////////////////////
+        //Corner Radius
+
+        <dimen name="cornerRadius">15dp</dimen>
+
+        ///////////////////////////////////////////////////////////////////////////////////////
+        // Add_Travelbook Dashed Line
+
+        <dimen name="dashWidth">10dp</dimen>
+        <dimen name="dashGap">20dp</dimen>
+        <dimen name="strokeWidth">2dp</dimen>
+
+
+
+</resources>

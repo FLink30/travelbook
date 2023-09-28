@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travelbook</string>
+    <string name="capture_image">Bild aufnehmen</string>
+    <string name="upload_image">Bild hochladen</string>
+    <string name="add_comment_placeholder">Füge einen Kommentar hinzu</string>
+    <string name="add_travelbook">+</string>
+    <string name="create">ERSTELLEN</string>
+    <string name="delete">LÖSCHEN</string>
+    <string name="save">SPEICHERN</string>
+    <string name="cancel">ABBRECHEN</string>
+    <string name="hintEnterTitle">Titel eingeben</string>
+    <string name="sureToDelete">Möchtest du dieses Reisetagebuch wirklich löschen?</string>
+</resources>
