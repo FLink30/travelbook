@@ -6,7 +6,7 @@ Travelbook has the following features:
 
 - create a new travelbook and save it in the app
 - upload photos (if the user allows the app to access photos on the device)
-- take pictures inside the app (if the user allows the app to take pictures)
+- take pictures inside the app (if the user allows it)
 - add a lovely memory to each photo
 - by clicking on the book for a long time the user can delete the travelbook or edit the name of it
 - choose light or dark mode
@@ -20,9 +20,9 @@ Travelbook was built using the following technologies:
 - Kotlin
 - Material 3
 - SQLite (Room persistence library)
-- Kotlin Corountine (Usefull library for Asynchronous Programming)
+- Kotlin Corountine (useful library for Asynchronous Programming)
 
-## TODOs:
+## TODOs
 Travelbook isn't production ready, it still has some bugs, that need to be fixed, features that should be implemented and the UX/UI should be optimized for a better usability: 
 
 **Bugs:**
@@ -35,9 +35,16 @@ Travelbook isn't production ready, it still has some bugs, that need to be fixed
 
 **UX/UI:**
 - the travelbooks should start in the right corner after the plus-button
-- optimize the delete-dialog regarding the UX (when clicking on the travelbook for a long time):
-  - animated travelbook by clicking on it (Feedback)
+- optimize the delete-dialog regarding the UX:
+  - animate the travelbook by clicking on it (Feedback)
   - optimize the position of the buttons
 - beautify the screen where the user can choose between capture image and upload image
 - beautify the screen inside the travelbook
 
+## Contributors: 
+Tabea Schuler
+
+[Franziska Link](https://github.com/FLink30)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/FLink30/travelbook/blob/main/LICENSE) file for details. 
