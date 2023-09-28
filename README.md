@@ -1,5 +1,5 @@
 # Travelbook
-Travelbook is an Android app developed during the Mobile Applications Development course in university. The app allows users to create their own travel diaries by uploading photos or taking photos in the app and adding some good memories. Travelbook is designed by Matrial 3 and offers light and dark mode options. 
+Travelbook is an Android app developed during the Mobile Applications Development course in summer semester 2023 in university. The app allows users to create their own travel diaries by uploading photos or taking photos in the app and adding some good memories. Travelbook is designed by Matrial 3 and offers light and dark mode options. 
 
 ## Features 
 Travelbook has the following features: 
