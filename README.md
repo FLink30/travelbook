@@ -42,9 +42,7 @@ Travelbook isn't production ready, it still has some bugs, that need to be fixed
 - beautify the screen inside the travelbook
 
 ## Contributors: 
-Tabea Schuler
-
-[Franziska Link](https://github.com/FLink30)
+This project was developed by a group of two students.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/FLink30/travelbook/blob/main/LICENSE) file for details. 
